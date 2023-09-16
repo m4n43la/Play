@@ -15,7 +15,6 @@ acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
 acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 #EXTINF:-1,DAZN LaLiga 5 1080 MultiAudio
 acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
---
 #EXTINF:-1,DAZN 1 1080
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1,DAZN 1 720
@@ -28,12 +27,16 @@ acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1,DAZN 4 1080
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1,DAZN F1 UHD (Fórmula 1)
+acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
 #EXTINF:-1,DAZN F1 1080 (Fórmula 1)
 acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1,DAZN F1 1080 (Fórmula 1)
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1,DAZN F1 720 (Fórmula 1)
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1,M. LaLiga 1080P
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1,M. LaLiga 1080 MultiAudio
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1,M. LaLiga 1080 MultiAudio
@@ -52,10 +55,8 @@ acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
 #EXTINF:-1,M. LaLiga 6 1080
 acestream://c896d37778f9e43549a788fc22206a655895b51b
---
 #EXTINF:-1,M.Plus 1080
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
---
 #EXTINF:-1,M. Deportes 1080
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1,M. Deportes 720
