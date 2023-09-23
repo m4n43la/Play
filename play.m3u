@@ -29,7 +29,7 @@ acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1,DAZN 4 1080
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1,DAZN F1 UHD (Fórmula 1)
-acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1,DAZN F1 1080 (Fórmula 1)
 acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1,DAZN F1 1080 (Fórmula 1)
@@ -45,8 +45,6 @@ acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
 acestream://162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1,Dazn liga f 4
 acestream://e454681a152a86da504e63694f17f90d0586867d
-#EXTINF:-1,M. LaLiga UHD mas info grupo telegram
-acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1,M. LaLiga 1080P
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1,M. LaLiga 1080 MultiAudio
@@ -87,11 +85,11 @@ acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1,M. Deportes 7 1080
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
-#EXTINF:-1,M.L. Campeones 1080
+#EXTINF:-1,M.L. Campeones 1080 MultiAudio
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1,M.L. Campeones 1080 MultiAudio
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1,M.L. Campeones 1080 MultiAudio
+#EXTINF:-1,M.L. Campeones 1080P
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
 #EXTINF:-1,M.L. Campeones 720
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
@@ -111,16 +109,20 @@ acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
 acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d
 #EXTINF:-1,M.L. Campeones 7 1080
 acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
-#EXTINF:-1,M.L. Campeones 8 SD
-acestream://fdd9e3660059051660dbd7857443c2b807f258d0
+#EXTINF:-1,M.L. Campeones 8 1080
+acestream://1a4b41c02e116ed19a505551a9caa79f54c027f7
 #EXTINF:-1,M.L. Campeones 9 SD
-acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
+acestream://7244379f8f6382d40afec871fb8e4219a803840b
 #EXTINF:-1,M.L. Campeones 10 SD
-acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
+acestream://d42e1b592b840ea34394fd3e1b1d3a4d0f399213
 #EXTINF:-1,M.L. Campeones 11 SD
-acestream://57e284a3c13100baeff7a88dc50949585c9f1277
+acestream://e737c681a92a4328703761c6ed9d8a951655f3e4
 #EXTINF:-1,M.L. Campeones 12 SD
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
+#EXTINF:-1,M.L. Campeones 13 SD
+acestream://60296c246e3596f334903fefd48cfaa724a5053b
+#EXTINF:-1,M.L. Campeones 17 SD
+acestream://60296c246e3596f334903fefd48cfaa724a5053b
 #EXTINF:-1,M. Golf 1080
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1,M. Golf2 1080
