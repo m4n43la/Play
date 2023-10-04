@@ -62,7 +62,7 @@ acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 #EXTINF:-1,M.Plus 1080
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1,#Vamos 1080
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+http://127.0.0.1:6878/859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1,#Vamos 720
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1,#Ellas 1080
@@ -177,5 +177,3 @@ acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
 acestream://162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1,Dazn liga f 4
 acestream://e454681a152a86da504e63694f17f90d0586867d
-#EXTINF:-1,aquí
-acestream://8819c851e10adc18ad914805ec4a13ddfb67063c
