@@ -28,7 +28,8 @@ acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1,DAZN 4 1080
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-
+#EXTINF:-1,DAZN F1 UHD (Fórmula 1)
+acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
 #EXTINF:-1,DAZN F1 1080 (Fórmula 1)
 acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1,DAZN F1 1080 (Fórmula 1)
