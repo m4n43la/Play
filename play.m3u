@@ -28,6 +28,8 @@ acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1,DAZN 4 1080
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1,DAZN F1 Multicamara (Fórmula 1)
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
 
 #EXTINF:-1,DAZN F1 1080 (Fórmula 1)
 acestream://5789ca155323664edd293b848606688edf803f4d
@@ -102,7 +104,7 @@ acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1,M.L. Campeones 3 720
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1,M.L. Campeones 4 1080
-acestream://1b48d5881337c87b89e1edefff6688fe2271d222
+acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
 #EXTINF:-1,M.L. Campeones 5 1080
 acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
 #EXTINF:-1,M.L. Campeones 6 1080
