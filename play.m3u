@@ -1,10 +1,4 @@
 EXTM3U
-#EXTINF:-1,M SuperCopa 1080
-acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
-#EXTINF:-1,M SuperCopa 1080
-acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
-#EXTINF:-1,M SuperCopa 1080
-acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 #EXTINF:-1,DAZN LaLiga 1080 MultiAudio
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1,DAZN LaLiga 1080 MultiAudio
@@ -36,8 +30,7 @@ acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1,DAZN F1 Multicamara (Fórmula 1)
 acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1,DAZN F1 UHD (Fórmula 1)
-acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
+
 #EXTINF:-1,DAZN F1 1080 (Fórmula 1)
 acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1,DAZN F1 1080 (Fórmula 1)
@@ -53,8 +46,7 @@ acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
 acestream://162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1,Dazn liga f 4
 acestream://e454681a152a86da504e63694f17f90d0586867d
-#EXTINF:-1,M. LaLiga UHD mas info grupo telegram
-acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+
 #EXTINF:-1,M. LaLiga 1080P
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1,M. LaLiga 1080 MultiAudio
